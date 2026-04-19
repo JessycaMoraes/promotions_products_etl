@@ -1,0 +1,38 @@
+# Python-generated files
+__pycache__/
+*.py[co]
+*.py[cod]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code workspace settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Local secrets and credentials
+secrets.json
+
+# Data files that should not be committed
+data/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Python dependency files
+pip-wheel-metadata/
+.python-version
+
+# Other files to ignore
+Case - Analista Dexian.pdf
+Case Boticario.rtf
