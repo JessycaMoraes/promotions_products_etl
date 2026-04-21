@@ -132,3 +132,7 @@ Este projeto também inclui uma apresentação de negócios com insights e recom
 - Validação automatizada de dados
 - Cargas incrementais
 - Evolução do dashboard com KPIs de negócio
+
+---
+
+> ⚠️ *“baseado em um cenário empresarial fictício”*
